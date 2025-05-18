@@ -26,8 +26,8 @@ Follow these instructions to set up the project on your local machine for develo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shesadri47/herbs_to_home#
-   cd Ecom
+   git clone https://github.com/shesadri47/herbs_to_home
+   
    ```
 
 2. Install dependencies:
