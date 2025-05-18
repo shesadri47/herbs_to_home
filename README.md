@@ -40,11 +40,11 @@ Follow these instructions to set up the project on your local machine for develo
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Open your browser and navigate to `http://localhost:5173`.
 
 ## Deployment 🚀
 
-This project is deployed on Vercel. You can view it [here](https://ecom-pi-six.vercel.app/).
+This project is deployed on Vercel. You can view it [here](https://herbs-to-home.vercel.app/)
 
 ## Contributing 🤝
 
